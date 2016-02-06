@@ -1,0 +1,40 @@
+body {
+  background-color:#ffffff;
+}
+
+#logo{
+  text-align:center;
+	width:auto;
+}
+.bio {
+  background-color:#333333;
+  color:white;
+  text-align:center;
+  height:45px;
+  font-size:200%; 
+	width:100%;
+}
+
+p {
+  color:black;
+} 
+
+h2 {
+   font-size:24px;
+}
+
+.info { 
+      float: left;
+      position: relative;
+      vertical-align: text-top;
+      top:1px;
+}
+/*This is not need for this exercise */
+/*.foot {
+      background-color:#656565;
+      color:yellow;
+      height:20px;
+      text-align:center;
+      width:auto;
+}
+*/
